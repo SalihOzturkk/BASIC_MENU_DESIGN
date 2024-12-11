@@ -1,0 +1,12 @@
+c:\users\user\Desktop\2024.11.19\2024.11.19\bin\Debug\2024.11.19.exe.config
+c:\users\user\Desktop\2024.11.19\2024.11.19\bin\Debug\2024.11.19.exe
+c:\users\user\Desktop\2024.11.19\2024.11.19\bin\Debug\2024.11.19.pdb
+c:\users\user\Desktop\2024.11.19\2024.11.19\bin\Debug\2024.11.19.xml
+c:\users\user\Desktop\2024.11.19\2024.11.19\obj\Debug\_2024._11._19.Form1.resources
+c:\users\user\Desktop\2024.11.19\2024.11.19\obj\Debug\_2024._11._19.Resources.resources
+c:\users\user\Desktop\2024.11.19\2024.11.19\obj\Debug\2024.11.19.vbproj.GenerateResource.Cache
+c:\users\user\Desktop\2024.11.19\2024.11.19\obj\Debug\2024.11.19.exe
+c:\users\user\Desktop\2024.11.19\2024.11.19\obj\Debug\2024.11.19.xml
+c:\users\user\Desktop\2024.11.19\2024.11.19\obj\Debug\2024.11.19.pdb
+c:\users\user\Desktop\2024.11.19\2024.11.19\obj\Debug\_2024._11._19.Form2.resources
+c:\users\user\Desktop\2024.11.19\2024.11.19\obj\Debug\_2024._11._19.Form3.resources
